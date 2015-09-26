@@ -1,0 +1,1 @@
+INSERT INTO USER_DETAILS VALUES('ajay','test','test2','test3');

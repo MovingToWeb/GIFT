@@ -1,0 +1,1 @@
+INSERT INTO USER_DETAILS VALUES('ajay','A001','Bangalore','India');
